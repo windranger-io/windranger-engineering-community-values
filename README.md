@@ -18,3 +18,8 @@ For any correction or amendment to the value, create a fork, make a branch with 
 Awareness of yourself, the task you are undertaking, the context of your action and the effect you intend as the outcome.
 
 We embrace the additional responsibility that follows from ownership, the weight of expectation with the autonomy to execute efficiently.
+
+### Delivery 
+Before a product is fully realised it is merely intangible hope.
+
+We navigate the troubled waters of creation, guiding our product all the way to being a shipped and valuable product.
