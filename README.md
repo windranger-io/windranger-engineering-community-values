@@ -33,3 +33,8 @@ We seek elegant long term solutions to problems, over short term fixes.
 Before a product is fully realised it is merely intangible hope.
 
 We navigate the troubled waters of creation, guiding our product all the way to being a shipped and valuable product.
+
+### Curiosity
+A spark that drives the self-motivated mind along the path of continual acquisition and improvement of knowledge, skills and understanding,
+
+We identify and pursue opportunities to improve ourselves professionally and personally. 
