@@ -1,0 +1,15 @@
+# VS Code IDE
+.vscode
+
+# Eclipse project files
+.project
+.settings
+
+# Jetbrains IDE
+.idea
+
+# Docker created bash file
+.bash_history
+
+# MacOS system files
+.DS_Store
