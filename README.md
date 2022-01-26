@@ -18,3 +18,8 @@ For any correction or amendment to the value, create a fork, make a branch with 
 Awareness of yourself, the task you are undertaking, the context of your action and the effect you intend as the outcome.
 
 We embrace the additional responsibility that follows from ownership, the weight of expectation with the autonomy to execute efficiently.
+
+### Open & honest communication
+Clear, concise and relevant dialogue.
+
+We convey pertinent details with colleagues in a timely and respectful manner, while also engaging meaningfully in community discussions.
