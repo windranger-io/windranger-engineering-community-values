@@ -19,7 +19,7 @@ Awareness of yourself, the task you are undertaking, the context of your action 
 
 We embrace the additional responsibility that follows from ownership, the weight of expectation with the autonomy to execute efficiently.
 
-### Delivery 
-Before a product is fully realised it is merely intangible hope.
+### Open & honest communication
+Clear, concise and relevant dialogue.
 
-We navigate the troubled waters of creation, guiding our product all the way to being a shipped and valuable product.
+We convey pertinent details with colleagues in a timely and respectful manner, while also engaging meaningfully in community discussions.
