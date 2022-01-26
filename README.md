@@ -28,3 +28,8 @@ We convey pertinent details with colleagues in a timely and respectful manner, w
 Holding ourselves and our colleagues accountable to high standards of work.
 
 We seek elegant long term solutions to problems, over short term fixes.
+
+### Delivery
+Before a product is fully realised it is merely intangible hope.
+
+We navigate the troubled waters of creation, guiding our product all the way to being a shipped and valuable product.
