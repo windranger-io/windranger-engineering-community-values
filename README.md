@@ -23,3 +23,8 @@ We embrace the additional responsibility that follows from ownership, the weight
 Clear, concise and relevant dialogue.
 
 We convey pertinent details with colleagues in a timely and respectful manner, while also engaging meaningfully in community discussions.
+
+### Diligence 
+Holding ourselves and our colleagues accountable to high standards of work.
+
+We seek elegant long term solutions to problems, over short term fixes.
