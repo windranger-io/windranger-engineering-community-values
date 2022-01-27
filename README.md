@@ -1,8 +1,8 @@
-# WindRanger Engineering Community Values
-The WindRanger Engineering Community values contain aspirational elements and expectational components.
+# Windranger Engineering Community Values
+The Windranger Engineering Community values contain aspirational elements and expectational components.
 
-## WindRanger Engineering Community
-Members of WindRanger directly involved in the engineering disciple, either in direct practice or indirectly in a facilitation capacity. 
+## Windranger Engineering Community
+Members of Windranger directly involved in the engineering disciple, either in direct practice or indirectly in a facilitation capacity. 
 
 ### Change Process
 
